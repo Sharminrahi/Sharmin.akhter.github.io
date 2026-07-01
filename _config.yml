@@ -19,12 +19,12 @@ locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "Sharmin Lahey"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Data Leader | Power BI | Data Analyst"
 name                     : "Sharmin Akhter Lahey"
 description              : "Data Leader|Data Analyst"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://Sharminrahi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # GitHub username/repo-name e.g. "Sharminrahi/Sharminrahi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -119,51 +119,25 @@ author:
   bio              : "Data Leader at Nunatsiavut Government"
   location         : "Newfoundland and Labrador, Canada"
   email            :
-  # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:rahisharmin@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/Sharminrahi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
+      url: "https://github.com/Sharminrahi"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sharmin1989/"
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url:
-      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
+    footer:
+  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
-
+      url: "https://github.com/Sharminrahi"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sharmin1989/"
+  since: "2026"
 
 # Reading Files
 include:
